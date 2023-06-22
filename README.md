@@ -19,3 +19,17 @@ Users can add or remove applications, view student or teacher information, and v
 The program provides a command-line interface for users to interact with iLearn.
 
 Users can log in, sign up, and perform actions based on their role.
+
+Contributers:
+
+(Full Name)(:) (Student ID)
+
+Mohammad Sohaib Iftikhar: 7023686
+Yash Vijay: 7589244
+Marvin Bartholonew Antonio Colaco: 7424528
+Syed Ali Raza Mehdi: 7597964 
+Christian Francesco Cacciatore: 6973061
+Shaurya Singh: 7584945
+Khasim Akram Syed: 6292306
+
+
