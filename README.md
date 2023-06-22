@@ -25,11 +25,17 @@ Contributers:
 (Full Name)(:) (Student ID)
 
 Mohammad Sohaib Iftikhar: 7023686
+
 Yash Vijay: 7589244
+
 Marvin Bartholonew Antonio Colaco: 7424528
+
 Syed Ali Raza Mehdi: 7597964 
+
 Christian Francesco Cacciatore: 6973061
+
 Shaurya Singh: 7584945
+
 Khasim Akram Syed: 6292306
 
 
