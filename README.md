@@ -1,4 +1,4 @@
-# CSIT314-Project
+# CSIT314 Final Project (Spring 2023)
 
 This code is for an application called iLearn, which helps students, teachers, and parents with their learning experience.
 
