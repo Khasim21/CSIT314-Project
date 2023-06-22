@@ -2,6 +2,8 @@
 
 This code is for an application called iLearn, which helps students, teachers, and parents with their learning experience.
 
+The language used to showcase this design interface is Java.
+
 Users can sign up and log in to iLearn with different roles, like students, teachers, or parents.
 
 The code has classes to represent users (like students, teachers, and parents), applications, and utility functions.
