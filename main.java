@@ -1,5 +1,6 @@
 package proj2;
 
+
 import java.util.Scanner;
 
 class User {
